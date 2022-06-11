@@ -1,0 +1,13 @@
+.home-bg{
+    background-image: url("/img/background.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-bottom: 10000px;
+}
+
+.navbar-bg{
+    background-color: #D9D9D9;
+    opacity: 0.6    ;
+    position: sticky;
+}
